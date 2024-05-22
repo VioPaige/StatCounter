@@ -1,0 +1,1 @@
+If you're here for the kismet graphs, please go to https://html-preview.github.io/?url=https://github.com/VioPaige/VioPaigeMods/blob/master/ <-- place the path to the kismet graph after the /blob/master, e.g. /kismet/index.html or /kismet/cfgs/Content/Blueprints/Libraries/BP_HelperLibrary.html
